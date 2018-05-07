@@ -1,2 +1,2 @@
 # presidentialspeeches
-Comparing two presidential speeches using wordcount.
+Analyzing a presidential speech using wordcount.
